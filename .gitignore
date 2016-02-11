@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /build
 =======
 # Built application files
@@ -7,6 +8,11 @@
 *.mp4
 *.mp3
 raw/
+=======
+# Built application files
+*.apk
+*.ap_
+>>>>>>> FETCH_HEAD
 
 # Files for the Dalvik VM
 *.dex
@@ -36,4 +42,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+<<<<<<< HEAD
 >>>>>>> 2e2e94f7ba99fb777406fc99c6e4887e5e85c9c3
+=======
+>>>>>>> FETCH_HEAD
